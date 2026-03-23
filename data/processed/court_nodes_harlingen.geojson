@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "aor_name": "Harlingen", "administrative_control_court": "Port Isabel Immigration Court", "nearest_node": 222836077 }, "geometry": { "type": "Point", "coordinates": [ -10837919.001755218952894, 3018742.717201412655413 ] } },
+{ "type": "Feature", "properties": { "aor_name": "Harlingen", "administrative_control_court": "Harlingen Immigration Court", "nearest_node": 302698583 }, "geometry": { "type": "Point", "coordinates": [ -10877994.148204479366541, 3023218.774418126326054 ] } },
+{ "type": "Feature", "properties": { "aor_name": "Harlingen", "administrative_control_court": "Laredo Immigration Court", "nearest_node": 297387250 }, "geometry": { "type": "Point", "coordinates": [ -11073169.279285712167621, 3193963.273092962335795 ] } }
+]
+}

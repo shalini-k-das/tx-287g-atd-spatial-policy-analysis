@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "aor_name": "El Paso", "administrative_control_court": "El Paso SPC Immigration Court", "nearest_node": 11044394717 }, "geometry": { "type": "Point", "coordinates": [ -11840966.109815014526248, 3736269.027687034104019 ] } },
+{ "type": "Feature", "properties": { "aor_name": "El Paso", "administrative_control_court": "El Paso Immigration Court", "nearest_node": 179325035 }, "geometry": { "type": "Point", "coordinates": [ -11853552.438786121085286, 3731743.689418932888657 ] } }
+]
+}
